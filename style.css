@@ -47,6 +47,10 @@ body {
     font-size: 20px;
 }
 
+.bc-color {
+    background-color: lavenderblush;
+}
+
 .today {
     font-size: 40px;
     text-align: center;
@@ -70,15 +74,7 @@ body {
 
     font-size: 25px;
     padding-left: 15px;
-
-
-
 }
-
-
-
-
-
 
 #color {
     color: chocolate;
@@ -92,9 +88,6 @@ body {
     padding-right: 300px;
     text-underline-position: 50px;
 }
-
-
-
 
 .button {
 
@@ -181,13 +174,13 @@ body {
     padding-right: 300px;
 }
 
+.rong {
+    background-color: darkcyan;
+}
+
 .bonna {
     display: flex;
 
-}
-
-.text {
-    background-color: darkcyan;
 }
 
 #rong {
