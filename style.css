@@ -90,6 +90,7 @@ body {
     margin: 150px;
     padding-left: 380px;
     padding-right: 300px;
+    text-underline-position: 50px;
 }
 
 
@@ -138,16 +139,38 @@ body {
     padding: 5%;
 }
 
+.food {
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
 .coluum {
 
     background-color: beige;
     padding: 5%;
 }
 
+.home {
+
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
+
+
 .coolum {
 
     background-color: gainsboro;
     padding: 5%;
+}
+
+.school {
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 100px;
+
 }
 
 .display {
@@ -186,17 +209,18 @@ body {
 
 .footer {
     background-color: black;
-    background-size: 200px 500px;
-    padding: 6px 25px;
+    background-size: 30px 50px;
+
     justify-content: center;
-    margin-top: 70px;
+    margin-top: 50px;
+    border-bottom: 10px;
 
 
 
 }
 
 .footer h2 {
-    padding-top: 25PX;
+
     font-family: 'Roboto Mono', monospace;
     color: red;
     text-align: center;
@@ -205,5 +229,5 @@ body {
 .footer p {
     color: white;
     text-align: center;
-    padding-bottom: 5PX;
+
 }
