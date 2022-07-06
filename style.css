@@ -63,28 +63,33 @@ body {
 
 
 .box {
-    display: flex;
+
     justify-content: space-evenly;
+    display: flex;
+
+
     font-size: 25px;
-    padding: 40px 60px;
-    height: 300px;
+    padding-left: 15px;
+
+
 
 }
 
-tk100 {
-    padding: 30px 40px;
-    background-color: gray;
-    border: 5%;
-    box-sizing: content-box;
-    box-shadow: green;
-}
 
-.amout {}
+
+
+
 
 #color {
     color: chocolate;
     box-sizing: border-box;
 
+}
+
+.taka {
+    margin: 150px;
+    padding-left: 380px;
+    padding-right: 300px;
 }
 
 
@@ -97,17 +102,21 @@ tk100 {
     justify-content: center;
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 12px 20px;
+
 
     border-radius: 5px;
     font-weight: 700;
     color: azure;
     font-size: 20px;
+    margin: 550px;
+    margin-bottom: 300px;
 }
 
 .our {
     font-size: 40px;
     padding-left: 450px;
+    margin: 50px;
+    margin-top: 150px;
 }
 
 .p2 {
@@ -123,18 +132,20 @@ tk100 {
 }
 
 .colum {
-    float: left;
+
     display: block;
     background-color: papayawhip;
     padding: 5%;
 }
 
 .coluum {
+
     background-color: beige;
     padding: 5%;
 }
 
 .coolum {
+
     background-color: gainsboro;
     padding: 5%;
 }
@@ -157,8 +168,19 @@ tk100 {
 
 .subs {
     font-weight: 400;
+    padding: 10px 15px;
     color: white;
     background-color: tomato;
+    text-decoration: none;
+}
+
+.input {
+    padding: 10px 15px;
+}
+
+.back {
+    background-color: peachpuff;
+    padding: 80px 150px;
 }
 
 
@@ -167,6 +189,7 @@ tk100 {
     background-size: 200px 500px;
     padding: 6px 25px;
     justify-content: center;
+    margin-top: 70px;
 
 
 
