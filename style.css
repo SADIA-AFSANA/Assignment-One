@@ -181,6 +181,25 @@ body {
     padding-right: 300px;
 }
 
+.bonna {
+    display: flex;
+
+}
+
+.text {
+    background-color: darkcyan;
+}
+
+#rong {
+    text-align: center;
+    color: rgb(41, 25, 6);
+}
+
+.shisho {
+    width: 50%;
+    border-left: 30px;
+}
+
 .up {
     font-size: 40px;
 }
